@@ -1,7 +1,6 @@
 [![Website](https://img.shields.io/website?label=frostfex.my.id&style=for-the-badge&url=http%3A%2F%2Ffrostfex.my.id)](http://frostfex.my.id)
 
-### Connect with me:
-<br />
+
 
 ### Languages and Tools:
 
