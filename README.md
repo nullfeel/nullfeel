@@ -1,6 +1,6 @@
-<img align="center" alt="cat" width="26px" src="https://media.tenor.com/images/d12294532cec0d5eb342bd5f57c525bd/tenor.gif" />
 [![Website](https://img.shields.io/website?label=frostfex.my.id&style=for-the-badge&url=http%3A%2F%2Ffrostfex.my.id)](http://frostfex.my.id)
-
+<br />
+<img align="center" alt="cat" width="26px" src="https://media.tenor.com/images/d12294532cec0d5eb342bd5f57c525bd/tenor.gif" />
 
 
 ### Languages and Tools:
