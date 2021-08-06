@@ -12,5 +12,5 @@
 <br />
   <summary>:zap: GitHub Stats</summary>
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=frostfex)]
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nullfeel)
 
