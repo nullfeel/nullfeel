@@ -1,10 +1,5 @@
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # runs daily
-  workflow_dispatch:
-
+name: snake
+on: [workflow_dispatch]
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,10 +7,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: nullfeel
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
+          outputs: dist/github-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
