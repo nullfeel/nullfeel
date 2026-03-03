@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://64.media.tumblr.com/5fba6e2c2d20240a1cfac8e3a0a1b696/tumblr_pt6zy2CaRH1xnbbyjo1_500.gifv" width="400" />
+<img src="https://preview.redd.it/37qjly9b90dy.gif?width=1104&format=mp4&s=e20c93963d1150c5765401619d59b30fb7189ef6" width="400" />
 
 <br/><br/>
 
