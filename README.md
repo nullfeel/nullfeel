@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://giffiles.alphacoders.com/171/171295.gif" width="200" />
+<img src="https://giffiles.alphacoders.com/171/171295.gif" width="150" />
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=nullfeel&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=9b59b6&text_color=8e44ad&ring_color=7d3c98&count_private=true" />
+<img height="150" src="https://img1.picmix.com/output/stamp/normal/3/7/6/4/2384673_abbc3.gif" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nullfeel&hide_border=true&background=00000000&stroke=2d1b4e&ring=9b59b6&fire=c39bd3&currStreakNum=9b59b6&currStreakLabel=7d3c98&sideNums=8e44ad&sideLabels=7d3c98&dates=4a235a" />
 
