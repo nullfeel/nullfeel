@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://preview.redd.it/37qjly9b90dy.gif?width=1104&format=mp4&s=e20c93963d1150c5765401619d59b30fb7189ef6" width="400" />
+<img src="https://giffiles.alphacoders.com/171/171295.gif" width="400" />
 
 <br/><br/>
 
