@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://giffiles.alphacoders.com/171/171295.gif" width="400" />
+<img src="https://giffiles.alphacoders.com/171/171295.gif" width="100" />
 
 <br/><br/>
 
