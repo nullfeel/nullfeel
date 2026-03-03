@@ -32,6 +32,6 @@
 
 <br/>
 
-[![](https://komarev.com/ghpvc/?username=nullfeel&color=7d3c98&style=flat-square&label=)](https://github.com/nullfeel)
+![views](https://komarev.com/ghpvc/?username=nullfeel&color=7d3c98&style=flat-square&label=views)
 
 </div>
