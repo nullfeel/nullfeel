@@ -10,25 +10,26 @@
 
 <br/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=9b59b6)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=9b59b6)
-![Rust](https://img.shields.io/badge/Rust-0d0d0d?style=flat-square&logo=rust&logoColor=9b59b6)
-![Go](https://img.shields.io/badge/Go-0d0d0d?style=flat-square&logo=go&logoColor=9b59b6)
-![Lua](https://img.shields.io/badge/Lua-0d0d0d?style=flat-square&logo=lua&logoColor=9b59b6)
-![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=9b59b6)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=3178c6)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=f7d94a)
+![Rust](https://img.shields.io/badge/Rust-0d0d0d?style=flat-square&logo=rust&logoColor=e43717)
+![Go](https://img.shields.io/badge/Go-0d0d0d?style=flat-square&logo=go&logoColor=00add8)
+![Lua](https://img.shields.io/badge/Lua-0d0d0d?style=flat-square&logo=lua&logoColor=2c2d72)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=00599c)
 
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=9b59b6)
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=9b59b6)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=9b59b6)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=9b59b6)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=9b59b6)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=9b59b6)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=5fa04e)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![Prisma](https://img.shields.io/badge/Prisma-0d0d0d?style=flat-square&logo=prisma&logoColor=5a67d8)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=2496ed)
 
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=9b59b6)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=9b59b6)
-![Prisma](https://img.shields.io/badge/Prisma-0d0d0d?style=flat-square&logo=prisma&logoColor=9b59b6)
-![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=9b59b6)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=9b59b6)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=47a248)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=4479a1)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=3ecf8e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=4169e1)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=f05032)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=ffffff)
 
 <br/>
 
