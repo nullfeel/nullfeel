@@ -50,6 +50,19 @@ Full-stack · produto · IA aplicada · Hortolândia, SP · Rumo à Engenharia d
 
 Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps](https://github.com/nullfeel/prumo-apps) (UI mobile)
 
+## Prumo Player
+
+<a href="https://prumo-player.vercel.app">
+  <img src="https://prumo-player.vercel.app/assets/og.png" width="100%" alt="Prumo Player" />
+</a>
+
+| | |
+|---|---|
+| Produto | Player de música para Windows · gratuito · [download](https://prumo-player.vercel.app) |
+| Stack | Tauri 2 · Rust · Svelte · TypeScript |
+| Recursos | FLAC, MP3, Opus · gapless · equalizador · ReplayGain · letra sincronizada · biografia · Last.fm · Discord Rich Presence |
+| Distribuição | Instalador assinado · atualização automática · site próprio |
+
 ## Foco
 
 | | |
@@ -57,6 +70,7 @@ Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps
 | Front-end | Next.js App Router · React 19 · design system próprio · animação (GSAP, SVG) · acessibilidade |
 | Back-end | ~40 rotas de API · Supabase (Postgres, Auth, Storage) · 120+ migrations · jobs agendados |
 | IA | Integração com LLMs · correção de redação · OCR · geração de questões |
+| Desktop | Tauri 2 · Rust · áudio nativo · atualização automática assinada |
 | Integrações | Pagamentos via Pix e webhooks · web push · Discord · Sentry |
 | Produto | Gamificação · retenção · métricas de uso |
 | Ferramentas | Claude Code · Cursor · OpenCode · Kimi · Vitest · Git |
@@ -64,8 +78,8 @@ Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&theme=dark" alt="Linguagens e frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,vitest,git,github&theme=dark" alt="Back-end e ferramentas" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,ts,js,rust,tauri&theme=dark" alt="Linguagens e frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,html,css,vitest,git&theme=dark" alt="Back-end e ferramentas" /><br/>
   <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
 </p>
