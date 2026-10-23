@@ -3,20 +3,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:FF8FA3&height=190&section=header&text=Marcos%20Alan&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Cofundador%20e%20CTO%20da%20Prumo%20%C2%B7%20Produto%20%C2%B7%20Interface%20%C2%B7%20Anima%C3%A7%C3%A3o&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Marcos Alan" />
 
 <a href="https://estudeprumo.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=6C5CE7&center=true&vCenter=true&width=640&lines=Cofundador+e+CTO+da+Prumo;Telas+que+o+estudante+usa+todo+dia;Mascote%2C+XP%2C+ligas+e+torneios;Next.js%2C+React+e+TypeScript" alt="Digitando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=6C5CE7&center=true&vCenter=true&width=640&lines=Cofundador+e+CTO+%C2%B7+Prumo;Front-end+%C2%B7+UI%2FUX+%C2%B7+Produto;Gamifica%C3%A7%C3%A3o+%C2%B7+Anima%C3%A7%C3%A3o;Next.js+%C2%B7+React+%C2%B7+TypeScript" alt="Digitando" />
 </a>
 
 <a href="https://estudeprumo.com"><img src="https://img.shields.io/badge/estudeprumo.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="estudeprumo.com" /></a>
-<a href="https://nullfeel.github.io/mascote-vivo/"><img src="https://img.shields.io/badge/demo_mascote--vivo-FF8FA3?style=for-the-badge&logo=github&logoColor=white" alt="Demonstração do mascote-vivo" /></a>
 <a href="https://github.com/nullfeel/prumo"><img src="https://img.shields.io/badge/estudo_de_caso-8F7CFF?style=for-the-badge&logo=github&logoColor=white" alt="Estudo de caso" /></a>
-<a href="https://www.linkedin.com/in/marcos-alan-passos-pereira-7a7a9b3b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
-Moro em Hortolândia (SP), quero cursar Engenharia de Software e fundei a Prumo com o
-[Victor](https://github.com/burnoutscript). É uma plataforma de estudos com IA para ENEM e
-concursos, no ar com alunos e pagamentos reais. Eu cuido do produto e da interface: o visual,
-as telas e as funcionalidades que o estudante usa. A segurança fica com o Victor.
+**Cofundador e CTO da [Prumo](https://estudeprumo.com)**, plataforma de estudos com IA para ENEM e concursos.<br/>
+Front-end, UI/UX e produto · Hortolândia, SP · Rumo à Engenharia de Software
 
 ## Prumo
 
@@ -24,15 +20,16 @@ as telas e as funcionalidades que o estudante usa. A segurança fica com o Victo
   <img src="https://raw.githubusercontent.com/nullfeel/prumo/main/docs/painel.png" width="100%" alt="Painel da Prumo na web" />
 </a>
 
-A Prumo tem um visual de desenho animado, com mascote, cores fortes e animações. A ideia é que
-estudar pareça um jogo que dá vontade de abrir todo dia, sem deixar de ser estudo sério.
+| | |
+|---|---|
+| Produto | SaaS de estudos com IA · em produção · usuários pagantes |
+| Plataformas | Web · iOS · Android |
+| Papel | Front-end, UI/UX, produto e funcionalidades do site · visual dos apps |
+| Time | 2 fundadores · segurança e apps nativos com [Victor Candido](https://github.com/burnoutscript) |
 
 <a href="https://github.com/nullfeel/prumo-apps">
   <img src="https://raw.githubusercontent.com/nullfeel/prumo-apps/main/docs/capa.png" width="100%" alt="Apps da Prumo para iOS e Android" />
 </a>
-
-Nos apps de iPhone e Android, o visual é meu e o código nativo é do Victor. As telas seguem o
-mesmo estilo do site, com o mesmo mascote, para o aluno reconhecer a Prumo em qualquer lugar.
 
 <table>
   <tr>
@@ -41,27 +38,25 @@ mesmo estilo do site, com o mesmo mascote, para o aluno reconhecer a Prumo em qu
   </tr>
 </table>
 
-### O que construí
+### Funcionalidades
 
-| Área | Funcionalidades |
+| Área | |
 |---|---|
-| Estudo | Simulados, flashcards, caderno de erros, objetivos e Modo Foco |
-| Redação | Corretor de redação com IA, que também lê redação escrita à mão por foto |
-| Jogo | XP e níveis, sequência de dias, conquistas, missões, prova chefe, avatar e o mascote |
-| Social | Duelo entre alunos, ranking, ligas, torneios, times, convites, perfil público e integração com o Discord |
-| Negócio | Planos com Pix, notificações push e resumo semanal do aluno |
+| Estudo | Simulados · flashcards · caderno de erros · objetivos · Modo Foco |
+| Redação | Correção por IA · OCR de redação manuscrita |
+| Gamificação | XP e níveis · streak · conquistas · missões · prova chefe · avatar · mascote |
+| Social | Duelo · ranking · ligas · torneios · times · convites · perfil público · Discord |
+| Negócio | Planos e Pix · push notifications · resumo semanal |
 
-No site, tudo isso é meu; a segurança é do Victor. Os estudos de caso contam mais:
-[prumo](https://github.com/nullfeel/prumo) (o site) e
-[prumo-apps](https://github.com/nullfeel/prumo-apps) (o visual dos apps).
+Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps](https://github.com/nullfeel/prumo-apps) (UI mobile)
 
-## Como eu trabalho
+## Foco
 
-- Começo pela tela: penso em quem vai usar e no caminho mais curto até a pessoa estudar.
-- Uso agentes de código no dia a dia (Claude Code, Cursor, OpenCode e Kimi), do primeiro
-  rascunho ao teste.
-- Coloco a ideia na mão de alunos reais cedo e ajusto pelo que eles fazem, não pelo que eu acho.
-- Cuido dos detalhes que dão vida à tela: animação, mascote e resposta a cada toque.
+- UI/UX e design system próprio
+- Gamificação e retenção
+- Animação de interface e mascote (SVG, GSAP)
+- Acessibilidade (`prefers-reduced-motion`)
+- Desenvolvimento com agentes de IA: Claude Code · Cursor · OpenCode · Kimi
 
 ## Stack
 
@@ -74,11 +69,9 @@ No site, tudo isso é meu; a segurança é do Victor. Os estudos de caso contam 
 
 ## Projetos open source
 
-| Projeto | O que faz |
+| Projeto | Descrição |
 |---|---|
-| [mascote-vivo](https://github.com/nullfeel/mascote-vivo) | Dá vida a mascotes em SVG: olham para o mouse, piscam, pulam e comemoram. [Ver demonstração](https://nullfeel.github.io/mascote-vivo/) |
-
-Feito em TypeScript, com testes e um README que explica como usar.
+| [mascote-vivo](https://github.com/nullfeel/mascote-vivo) | Animação de mascotes SVG: olhar, piscar, pulo e comemoração · TypeScript · GSAP · Vitest · [demo](https://nullfeel.github.io/mascote-vivo/) |
 
 <div align="center">
 
