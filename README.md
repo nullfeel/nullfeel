@@ -8,6 +8,7 @@
 
 <a href="https://estudeprumo.com"><img src="https://img.shields.io/badge/estudeprumo.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="estudeprumo.com" /></a>
 <a href="https://nullfeel.github.io/mascote-vivo/"><img src="https://img.shields.io/badge/demo_mascote--vivo-FF8FA3?style=for-the-badge&logo=github&logoColor=white" alt="Demonstração do mascote-vivo" /></a>
+<a href="https://github.com/nullfeel/prumo"><img src="https://img.shields.io/badge/estudo_de_caso-8F7CFF?style=for-the-badge&logo=github&logoColor=white" alt="Estudo de caso" /></a>
 <a href="https://www.linkedin.com/in/marcos-alan-passos-pereira-7a7a9b3b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
@@ -19,8 +20,8 @@ as telas e as funcionalidades que o estudante usa. A segurança fica com o Victo
 
 ## Prumo
 
-<a href="https://github.com/burnoutscript/prumo">
-  <img src="https://raw.githubusercontent.com/burnoutscript/prumo/main/docs/painel.png" width="100%" alt="Painel da Prumo na web" />
+<a href="https://github.com/nullfeel/prumo">
+  <img src="https://raw.githubusercontent.com/nullfeel/prumo/main/docs/painel.png" width="100%" alt="Painel da Prumo na web" />
 </a>
 
 A Prumo tem um visual de desenho animado, com mascote, cores fortes e animações. A ideia é que
@@ -36,8 +37,9 @@ estudar pareça um jogo que dá vontade de abrir todo dia, sem deixar de ser est
 | Social | Ranking, ligas, torneios, times, convites, perfil público e integração com o Discord |
 | Negócio | Planos com Pix, notificações push e resumo semanal do aluno |
 
-O Duelo entre alunos e a parte de segurança são do Victor. O
-[estudo de caso da Prumo](https://github.com/burnoutscript/prumo) explica a arquitetura.
+No site, tudo isso é meu; a segurança é do Victor. Os estudos de caso contam mais:
+[prumo](https://github.com/nullfeel/prumo) (o site) e
+[prumo-apps](https://github.com/nullfeel/prumo-apps) (o visual dos apps).
 
 ## Como eu trabalho
 
