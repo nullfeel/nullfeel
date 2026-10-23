@@ -16,6 +16,12 @@ segurança fica com o [Victor](https://github.com/burnoutscript).
 | Modo Foco | Sessões de estudo sem distrações |
 | XP e níveis | Pontos, níveis e sequência de dias, com cara de jogo |
 
+#### Projetos
+
+| Projeto | O que faz |
+|---|---|
+| [mascote-vivo](https://github.com/nullfeel/mascote-vivo) | Dá vida a mascotes em SVG: olham para o mouse, piscam, pulam e comemoram. [Ver demonstração](https://nullfeel.github.io/mascote-vivo/) |
+
 #### Como eu trabalho
 
 Começo pela tela: penso em quem vai usar e no caminho mais curto até a pessoa estudar. Depois
@@ -24,7 +30,7 @@ uma ideia com usuários reais em pouco tempo.
 
 #### Stack
 
-Next.js, React, JavaScript, APIs, design de interface, Claude.
+Next.js, React, TypeScript, JavaScript, GSAP, APIs, design de interface, Claude.
 
 #### Contato
 
