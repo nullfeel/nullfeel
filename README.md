@@ -34,7 +34,7 @@ estudar pareça um jogo que dá vontade de abrir todo dia, sem deixar de ser est
 | Estudo | Simulados, flashcards, caderno de erros, objetivos e Modo Foco |
 | Redação | Corretor de redação com IA, que também lê redação escrita à mão por foto |
 | Jogo | XP e níveis, sequência de dias, conquistas, missões, prova chefe, avatar e o mascote |
-| Social | Ranking, ligas, torneios, times, convites, perfil público e integração com o Discord |
+| Social | Duelo entre alunos, ranking, ligas, torneios, times, convites, perfil público e integração com o Discord |
 | Negócio | Planos com Pix, notificações push e resumo semanal do aluno |
 
 No site, tudo isso é meu; a segurança é do Victor. Os estudos de caso contam mais:
@@ -44,7 +44,8 @@ No site, tudo isso é meu; a segurança é do Victor. Os estudos de caso contam 
 ## Como eu trabalho
 
 - Começo pela tela: penso em quem vai usar e no caminho mais curto até a pessoa estudar.
-- Uso o Claude como parceiro de programação no dia a dia, do primeiro rascunho ao teste.
+- Uso agentes de código no dia a dia (Claude Code, Cursor, OpenCode e Kimi), do primeiro
+  rascunho ao teste.
 - Coloco a ideia na mão de alunos reais cedo e ajusto pelo que eles fazem, não pelo que eu acho.
 - Cuido dos detalhes que dão vida à tela: animação, mascote e resposta a cada toque.
 
