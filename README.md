@@ -27,6 +27,20 @@ as telas e as funcionalidades que o estudante usa. A segurança fica com o Victo
 A Prumo tem um visual de desenho animado, com mascote, cores fortes e animações. A ideia é que
 estudar pareça um jogo que dá vontade de abrir todo dia, sem deixar de ser estudo sério.
 
+<a href="https://github.com/nullfeel/prumo-apps">
+  <img src="https://raw.githubusercontent.com/nullfeel/prumo-apps/main/docs/capa.png" width="100%" alt="Apps da Prumo para iOS e Android" />
+</a>
+
+Nos apps de iPhone e Android, o visual é meu e o código nativo é do Victor. As telas seguem o
+mesmo estilo do site, com o mesmo mascote, para o aluno reconhecer a Prumo em qualquer lugar.
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/nullfeel/prumo-apps/main/docs/ios.png" alt="Telas do app iOS" /></td>
+    <td><img src="https://raw.githubusercontent.com/nullfeel/prumo-apps/main/docs/android.png" alt="Telas do app Android" /></td>
+  </tr>
+</table>
+
 ### O que construí
 
 | Área | Funcionalidades |
