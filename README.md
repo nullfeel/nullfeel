@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:FF8FA3&height=190&section=header&text=Marcos%20Alan&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Cofundador%20e%20CTO%20da%20Prumo%20%C2%B7%20Produto%20%C2%B7%20Interface%20%C2%B7%20Anima%C3%A7%C3%A3o&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Marcos Alan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:FF8FA3&height=190&section=header&text=Marcos%20Alan&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Cofundador%20e%20CTO%20da%20Prumo%20%C2%B7%20Full-stack%20%C2%B7%20Produto%20%C2%B7%20IA&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Marcos Alan" />
 
 <a href="https://estudeprumo.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=6C5CE7&center=true&vCenter=true&width=640&lines=Cofundador+e+CTO+%C2%B7+Prumo;Front-end+%C2%B7+UI%2FUX+%C2%B7+Produto;Gamifica%C3%A7%C3%A3o+%C2%B7+Anima%C3%A7%C3%A3o;Next.js+%C2%B7+React+%C2%B7+TypeScript" alt="Digitando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=6C5CE7&center=true&vCenter=true&width=640&lines=Cofundador+e+CTO+%C2%B7+Prumo;Desenvolvedor+Full-stack;APIs+%C2%B7+Postgres+%C2%B7+LLMs;Next.js+%C2%B7+React+%C2%B7+Supabase" alt="Digitando" />
 </a>
 
 <a href="https://estudeprumo.com"><img src="https://img.shields.io/badge/estudeprumo.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="estudeprumo.com" /></a>
@@ -12,7 +12,7 @@
 </div>
 
 **Cofundador e CTO da [Prumo](https://estudeprumo.com)**, plataforma de estudos com IA para ENEM e concursos.<br/>
-Front-end, UI/UX e produto · Hortolândia, SP · Rumo à Engenharia de Software
+Full-stack · produto · IA aplicada · Hortolândia, SP · Rumo à Engenharia de Software
 
 ## Prumo
 
@@ -24,7 +24,7 @@ Front-end, UI/UX e produto · Hortolândia, SP · Rumo à Engenharia de Software
 |---|---|
 | Produto | SaaS de estudos com IA · em produção · usuários pagantes |
 | Plataformas | Web · iOS · Android |
-| Papel | Front-end, UI/UX, produto e funcionalidades do site · visual dos apps |
+| Papel | Full-stack na web: front-end, APIs, banco e integrações · UI dos apps |
 | Time | 2 fundadores · segurança e apps nativos com [Victor Candido](https://github.com/burnoutscript) |
 
 <a href="https://github.com/nullfeel/prumo-apps">
@@ -52,17 +52,20 @@ Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps
 
 ## Foco
 
-- UI/UX e design system próprio
-- Gamificação e retenção
-- Animação de interface e mascote (SVG, GSAP)
-- Acessibilidade (`prefers-reduced-motion`)
-- Desenvolvimento com agentes de IA: Claude Code · Cursor · OpenCode · Kimi
+| | |
+|---|---|
+| Front-end | Next.js App Router · React 19 · design system próprio · animação (GSAP, SVG) · acessibilidade |
+| Back-end | ~40 rotas de API · Supabase (Postgres, Auth, Storage) · 120+ migrations · jobs agendados |
+| IA | Integração com LLMs · correção de redação · OCR · geração de questões |
+| Integrações | Pagamentos via Pix e webhooks · web push · Discord · Sentry |
+| Produto | Gamificação · retenção · métricas de uso |
+| Ferramentas | Claude Code · Cursor · OpenCode · Kimi · Vitest · Git |
 
 ## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&theme=dark" alt="Linguagens e frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=supabase,vitest,git,github,vscode&theme=dark" alt="Banco e ferramentas" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,vitest,git,github&theme=dark" alt="Back-end e ferramentas" /><br/>
   <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
 </p>
