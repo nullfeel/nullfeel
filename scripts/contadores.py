@@ -33,11 +33,13 @@ def fetch_stats():
     with urllib.request.urlopen(req) as resp:
         user = json.load(resp)["data"]["user"]
     repos = user["repositories"]
-    return [
+    stats = [
         ("estrelas", sum(r["stargazerCount"] for r in repos["nodes"])),
         ("contribuições no ano", user["contributionsCollection"]["contributionCalendar"]["totalContributions"]),
         ("repositórios", repos["totalCount"]),
     ]
+    # Só mostra o que já tem número: "0 estrelas" chama atenção para o lado errado.
+    return [(label, value) for label, value in stats if value > 0]
 
 
 def render(stats):
@@ -46,7 +48,7 @@ def render(stats):
     for i, (label, value) in enumerate(stats):
         x = w / len(stats) * (i + 0.5)
         cols.append(
-            f'  <text x="{x}" y="58" class="n">{str(value).zfill(3)}</text>\n'
+            f'  <text x="{x}" y="58" class="n">{value}</text>\n'
             f'  <text x="{x}" y="88" class="l">{label}</text>'
         )
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">
