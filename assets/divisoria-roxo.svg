@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="32" viewBox="0 0 900 32">
-  <rect x="150" y="16" width="270" height="1" fill="#6C5CE7" opacity=".6"/>
-  <rect x="480" y="16" width="270" height="1" fill="#6C5CE7" opacity=".6"/>
-  <g transform="translate(450 16) scale(0.8)" fill="#8F7CFF"><rect x="-1.5" y="-14" width="3" height="28"/><rect x="-8" y="-7" width="16" height="3"/></g>
-</svg>

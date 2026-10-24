@@ -1,28 +1,22 @@
 <div align="center">
 
-<img src="assets/banner-roxo.svg" width="100%" alt="Marcos Alan · cofundador e CTO da Prumo · full-stack" />
-
-<img src="https://media.tenor.com/AtAW1M7pHggAAAAC/lain-experiments.gif" height="210" alt="Lain Iwakura no computador" />&nbsp;&nbsp;<img src="https://media.tenor.com/S1hAWNSfyN4AAAAC/gin-ichimaru.gif" height="210" alt="Gin Ichimaru sorrindo" />
-
-<sub><i>“No matter where you are, everyone is always connected.”</i> · Lain&nbsp;&nbsp;†&nbsp;&nbsp;<i>射殺せ、神鎗</i> · Gin</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0912,55:6C5CE7,100:8F7CFF&height=200&section=header&text=Marcos%20Alan&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Cofundador%20e%20CTO%20da%20Prumo%20%C2%B7%20Full-stack%20%C2%B7%20Produto%20%C2%B7%20IA&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Marcos Alan" />
 
 <a href="https://estudeprumo.com">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=28&duration=2800&pause=900&color=8F7CFF&center=true&vCenter=true&width=640&lines=Cofundador+e+CTO+%C2%B7+Prumo;Desenvolvedor+Full-stack;APIs+%C2%B7+Postgres+%C2%B7+LLMs;Rust+%C2%B7+Tauri+%C2%B7+Svelte;present+day.+present+time." alt="Digitando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=8F7CFF&center=true&vCenter=true&width=640&lines=Cofundador+e+CTO+%C2%B7+Prumo;Desenvolvedor+Full-stack;APIs+%C2%B7+Postgres+%C2%B7+LLMs;Rust+%C2%B7+Tauri+%C2%B7+Svelte" alt="Digitando" />
 </a>
 
-<a href="https://estudeprumo.com"><img src="https://img.shields.io/badge/estudeprumo.com-0d0d0f?style=for-the-badge&logo=googlechrome&logoColor=8F7CFF" alt="estudeprumo.com" /></a>
-<a href="https://github.com/nullfeel/prumo"><img src="https://img.shields.io/badge/estudo_de_caso-0d0d0f?style=for-the-badge&logo=github&logoColor=8F7CFF" alt="Estudo de caso" /></a>
-<a href="https://github.com/nullfeel/prumo-apps"><img src="https://img.shields.io/badge/apps_iOS_e_Android-0d0d0f?style=for-the-badge&logo=android&logoColor=8F7CFF" alt="Apps iOS e Android" /></a>
-<a href="https://github.com/nullfeel/prumo-player"><img src="https://img.shields.io/badge/prumo_player-0d0d0f?style=for-the-badge&logo=rust&logoColor=8F7CFF" alt="Prumo Player" /></a>
+<a href="https://estudeprumo.com"><img src="https://img.shields.io/badge/estudeprumo.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="estudeprumo.com" /></a>
+<a href="https://github.com/nullfeel/prumo"><img src="https://img.shields.io/badge/estudo_de_caso-7D6BF0?style=for-the-badge&logo=github&logoColor=white" alt="Estudo de caso" /></a>
+<a href="https://github.com/nullfeel/prumo-apps"><img src="https://img.shields.io/badge/apps_iOS_e_Android-5B4BD6?style=for-the-badge&logo=android&logoColor=white" alt="Apps iOS e Android" /></a>
+<a href="https://github.com/nullfeel/prumo-player"><img src="https://img.shields.io/badge/prumo_player-3F338F?style=for-the-badge&logo=rust&logoColor=white" alt="Prumo Player" /></a>
 
 </div>
 
 **Cofundador e CTO da [Prumo](https://estudeprumo.com)**, plataforma de estudos com IA para ENEM e concursos.<br/>
 Full-stack · produto · IA aplicada · Hortolândia, SP · Rumo à Engenharia de Software
 
-<p align="center"><img src="assets/divisoria-roxo.svg" width="70%" alt="" /></p>
-
-<h2><img src="assets/t2-prumo.svg" height="56" alt="Prumo" /></h2>
+## Prumo
 
 <a href="https://github.com/nullfeel/prumo">
   <img src="https://raw.githubusercontent.com/nullfeel/prumo/main/docs/painel.png" width="100%" alt="Painel da Prumo na web" />
@@ -58,9 +52,7 @@ Full-stack · produto · IA aplicada · Hortolândia, SP · Rumo à Engenharia d
 
 Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps](https://github.com/nullfeel/prumo-apps) (UI mobile)
 
-<p align="center"><img src="assets/divisoria-roxo.svg" width="70%" alt="" /></p>
-
-<h2><img src="assets/t2-player.svg" height="56" alt="Prumo Player" /></h2>
+## Prumo Player
 
 <a href="https://prumo-player.vercel.app">
   <img src="https://prumo-player.vercel.app/assets/og.png" width="100%" alt="Prumo Player" />
@@ -73,9 +65,7 @@ Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps
 | Recursos | FLAC, MP3, Opus · gapless · equalizador · ReplayGain · letra sincronizada · biografia · Last.fm · Discord Rich Presence |
 | Distribuição | Instalador assinado · atualização automática · site próprio |
 
-<p align="center"><img src="assets/divisoria-roxo.svg" width="70%" alt="" /></p>
-
-<h2><img src="assets/t2-foco.svg" height="56" alt="Foco" /></h2>
+## Foco
 
 | | |
 |---|---|
@@ -87,20 +77,16 @@ Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps
 | Produto | Gamificação · retenção · métricas de uso |
 | Ferramentas | Claude Code · Cursor · OpenCode · Kimi · Vitest · Git |
 
-<p align="center"><img src="assets/divisoria-roxo.svg" width="70%" alt="" /></p>
-
-<h2><img src="assets/t2-stack.svg" height="56" alt="Stack" /></h2>
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,ts,js,rust,tauri&theme=dark" alt="Linguagens e frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,html,css,vitest,git&theme=dark" alt="Back-end e ferramentas" /><br/>
-  <img src="https://img.shields.io/badge/GSAP-0d0d0f?style=flat-square&logo=greensock&logoColor=8F7CFF" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Claude-0d0d0f?style=flat-square&logo=claude&logoColor=8F7CFF" alt="Claude" />
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
-<p align="center"><img src="assets/divisoria-roxo.svg" width="70%" alt="" /></p>
-
-<h2><img src="assets/t2-open.svg" height="56" alt="Open Source" /></h2>
+## Open Source
 
 | Projeto | Descrição |
 |---|---|
@@ -114,6 +100,6 @@ Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps
 
 <br/><br/>
 
-<img src="assets/rodape-roxo.svg" width="100%" alt="Close the world, open the nExt" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8F7CFF,45:6C5CE7,100:0B0912&height=110&section=footer" width="100%" alt="" />
 
 </div>
