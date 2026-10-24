@@ -53,7 +53,7 @@ def render(stats):
   <style>
     text {{ font-family: Consolas, 'Courier New', monospace; text-anchor: middle; }}
     .n {{ font-size: 40px; fill: #d6d8e0; letter-spacing: 4px; }}
-    .l {{ font-size: 13px; fill: #b3122e; letter-spacing: 3px; text-transform: uppercase; }}
+    .l {{ font-size: 13px; fill: #8F7CFF; letter-spacing: 3px; text-transform: uppercase; }}
   </style>
 {chr(10).join(cols)}
 </svg>
