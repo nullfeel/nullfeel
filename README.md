@@ -41,6 +41,8 @@ A Prumo monta simulados e trilhas a partir do objetivo do aluno, corrige redaç�
 transforma o estudo em rotina com XP, ligas e torneios. O visual é de desenho animado, com um
 mascote que acompanha o aluno.
 
+<br/>
+
 <p align="center">
   <a href="https://github.com/nullfeel/prumo"><img src="https://raw.githubusercontent.com/nullfeel/prumo/main/docs/painel.png" width="88%" alt="Painel da Prumo na web" /></a>
 </p>
@@ -50,7 +52,9 @@ mascote que acompanha o aluno.
   <a href="https://github.com/nullfeel/prumo-apps"><img src="https://raw.githubusercontent.com/nullfeel/prumo-apps/main/docs/android.png" width="43%" alt="App Android" /></a>
 </p>
 
-**O que eu faço**
+<br/>
+
+### O que eu faço
 
 - Front-end em Next.js e React, com design system próprio e animações em GSAP e SVG
 - Cerca de 40 rotas de API e mais de 120 migrações no banco (Supabase, Postgres)
@@ -58,15 +62,17 @@ mascote que acompanha o aluno.
 - Pagamentos via Pix com webhooks, notificações push, integração com o Discord e monitoramento com Sentry
 - Visual das telas dos apps de iPhone e Android
 
-**Funcionalidades**
+<br/>
 
-| Área | |
-|---|---|
-| Estudo | Simulados · flashcards · caderno de erros · objetivos · Modo Foco |
-| Redação | Correção por IA · OCR de redação manuscrita |
-| Gamificação | XP e níveis · sequência de dias · conquistas · missões · prova chefe · avatar · mascote |
-| Social | Duelo · ranking · ligas · torneios · times · convites · perfil público · Discord |
-| Negócio | Planos e Pix · notificações push · resumo semanal |
+### Funcionalidades
+
+- **Estudo** — simulados, flashcards, caderno de erros, objetivos e Modo Foco
+- **Redação** — correção por IA e leitura de redação escrita à mão (OCR)
+- **Gamificação** — XP e níveis, sequência de dias, conquistas, missões, prova chefe, avatar e mascote
+- **Social** — Duelo, ranking, ligas, torneios, times, convites, perfil público e Discord
+- **Negócio** — planos com Pix, notificações push e resumo semanal
+
+<br/>
 
 Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (site) · [prumo-apps](https://github.com/nullfeel/prumo-apps) (visual dos apps)
 
@@ -78,9 +84,15 @@ Player de música gratuito para Windows. Toca os arquivos do computador com letr
 biografia do artista, Last.fm e Discord, num visual que muda com a capa do álbum.
 [Download](https://prumo-player.vercel.app) · [estudo de caso](https://github.com/nullfeel/prumo-player)
 
+<br/>
+
 <p align="center">
   <a href="https://prumo-player.vercel.app"><img src="https://prumo-player.vercel.app/assets/og.png" width="70%" alt="Prumo Player" /></a>
 </p>
+
+<br/>
+
+### Recursos
 
 - Motor de áudio próprio em Rust: FLAC, MP3, AAC, Opus e outros, sem pausa entre faixas, equalizador e volume equalizado (ReplayGain e EBU R128)
 - Biblioteca em SQLite, com tags, capas, playlists automáticas e contagem de plays
