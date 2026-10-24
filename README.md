@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=8F7CFF&center=true&vCenter=true&width=560&lines=Cofundador+e+CTO+da+Prumo;Desenvolvedor+Full-stack;APIs+%C2%B7+Postgres+%C2%B7+LLMs;Next.js+%C2%B7+React+%C2%B7+Supabase;Rust+%C2%B7+Tauri+%C2%B7+Svelte" alt="Digitando" />
 </a>
 
+<br/>
+
 <a href="https://estudeprumo.com"><img src="https://img.shields.io/badge/estudeprumo.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="estudeprumo.com" /></a>
 <a href="https://github.com/nullfeel/prumo"><img src="https://img.shields.io/badge/estudo_de_caso-7D6BF0?style=for-the-badge&logo=github&logoColor=white" alt="Estudo de caso" /></a>
 <a href="https://github.com/nullfeel/prumo-apps"><img src="https://img.shields.io/badge/apps_iOS_e_Android-5B4BD6?style=for-the-badge&logo=android&logoColor=white" alt="Apps iOS e Android" /></a>
@@ -39,16 +41,14 @@ A Prumo monta simulados e trilhas a partir do objetivo do aluno, corrige redaç�
 transforma o estudo em rotina com XP, ligas e torneios. O visual é de desenho animado, com um
 mascote que acompanha o aluno.
 
-<a href="https://github.com/nullfeel/prumo">
-  <img src="https://raw.githubusercontent.com/nullfeel/prumo/main/docs/painel.png" width="100%" alt="Painel da Prumo na web" />
-</a>
-
-<table>
-  <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/nullfeel/prumo-apps/main/docs/ios.png" alt="App iOS" /></td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/nullfeel/prumo-apps/main/docs/android.png" alt="App Android" /></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/nullfeel/prumo"><img src="https://raw.githubusercontent.com/nullfeel/prumo/main/docs/painel.png" width="88%" alt="Painel da Prumo na web" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/nullfeel/prumo-apps"><img src="https://raw.githubusercontent.com/nullfeel/prumo-apps/main/docs/ios.png" width="43%" alt="App iOS" /></a>
+  &nbsp;
+  <a href="https://github.com/nullfeel/prumo-apps"><img src="https://raw.githubusercontent.com/nullfeel/prumo-apps/main/docs/android.png" width="43%" alt="App Android" /></a>
+</p>
 
 **O que eu faço**
 
@@ -78,9 +78,9 @@ Player de música gratuito para Windows. Toca os arquivos do computador com letr
 biografia do artista, Last.fm e Discord, num visual que muda com a capa do álbum.
 [Download](https://prumo-player.vercel.app) · [estudo de caso](https://github.com/nullfeel/prumo-player)
 
-<a href="https://prumo-player.vercel.app">
-  <img src="https://prumo-player.vercel.app/assets/og.png" width="100%" alt="Prumo Player" />
-</a>
+<p align="center">
+  <a href="https://prumo-player.vercel.app"><img src="https://prumo-player.vercel.app/assets/og.png" width="70%" alt="Prumo Player" /></a>
+</p>
 
 - Motor de áudio próprio em Rust: FLAC, MP3, AAC, Opus e outros, sem pausa entre faixas, equalizador e volume equalizado (ReplayGain e EBU R128)
 - Biblioteca em SQLite, com tags, capas, playlists automáticas e contagem de plays
@@ -114,23 +114,20 @@ biografia do artista, Last.fm e Discord, num visual que muda com a capa do álbu
 
 <br/>
 
-## Contato
-
-[estudeprumo.com](https://estudeprumo.com) · [LinkedIn](https://www.linkedin.com/in/marcos-alan-passos-pereira-7a7a9b3b4/)
-
-<br/>
-
 <div align="center">
 
-<img src="https://media.tenor.com/EBgYPfYoreQAAAAm/lain.webp" height="130" alt="Lain" />
+<img src="https://media.tenor.com/EBgYPfYoreQAAAAm/lain.webp" height="150" alt="Lain" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://media.tenor.com/S1hAWNSfyN4AAAAC/gin-ichimaru.gif" height="130" alt="Gin Ichimaru" />
+<img src="https://media.tenor.com/S1hAWNSfyN4AAAAC/gin-ichimaru.gif" height="150" alt="Gin Ichimaru" />
 
+<br/>
 <sub><i>“No matter where you are, everyone is always connected.”</i> · Lain<br/><i>射殺せ、神鎗</i> · Gin</sub>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/nullfeel/nullfeel/main/assets/contadores.svg" alt="Estrelas, contribuições e repositórios" />
+<img src="https://raw.githubusercontent.com/nullfeel/nullfeel/main/assets/contadores.svg" width="480" alt="Estrelas, contribuições e repositórios" />
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8F7CFF,45:6C5CE7,100:0B0912&height=100&section=footer" width="100%" alt="" />
 
