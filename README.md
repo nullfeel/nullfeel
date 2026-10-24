@@ -4,7 +4,7 @@
 
 <img src="https://media.tenor.com/AtAW1M7pHggAAAAC/lain-experiments.gif" height="210" alt="Lain Iwakura no computador" />&nbsp;&nbsp;<img src="https://media.tenor.com/S1hAWNSfyN4AAAAC/gin-ichimaru.gif" height="210" alt="Gin Ichimaru sorrindo" />
 
-<sub><i>“No matter where you are, everyone is always connected.”</i> · Lain&nbsp;&nbsp;✝&nbsp;&nbsp;<i>射殺せ、神鎗</i> · Gin</sub>
+<sub><i>“No matter where you are, everyone is always connected.”</i> · Lain&nbsp;&nbsp;†&nbsp;&nbsp;<i>射殺せ、神鎗</i> · Gin</sub>
 
 <a href="https://estudeprumo.com">
   <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&weight=700&size=28&duration=2800&pause=900&color=B3122E&center=true&vCenter=true&width=640&lines=Cofundador+e+CTO+%C2%B7+Prumo;Desenvolvedor+Full-stack;APIs+%C2%B7+Postgres+%C2%B7+LLMs;Rust+%C2%B7+Tauri+%C2%B7+Svelte;present+day.+present+time." alt="Digitando" />
