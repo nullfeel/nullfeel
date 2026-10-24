@@ -1,25 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0912,55:6C5CE7,100:8F7CFF&height=180&section=header&text=Marcos%20Alan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cofundador%20e%20CTO%20da%20Prumo%20%C2%B7%20Full-stack&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Marcos Alan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0912,55:6C5CE7,100:8F7CFF&height=190&section=header&text=Marcos%20Alan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cofundador%20e%20CTO%20da%20Prumo%20%C2%B7%20Desenvolvedor%20Full-stack&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Marcos Alan" />
 
 <a href="https://estudeprumo.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=8F7CFF&center=true&vCenter=true&width=520&lines=Full-stack+%C2%B7+Produto+%C2%B7+IA;APIs+%C2%B7+Postgres+%C2%B7+LLMs;Next.js+%C2%B7+React+%C2%B7+Supabase;Rust+%C2%B7+Tauri+%C2%B7+Svelte" alt="Digitando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=8F7CFF&center=true&vCenter=true&width=560&lines=Cofundador+e+CTO+da+Prumo;Desenvolvedor+Full-stack;APIs+%C2%B7+Postgres+%C2%B7+LLMs;Next.js+%C2%B7+React+%C2%B7+Supabase;Rust+%C2%B7+Tauri+%C2%B7+Svelte" alt="Digitando" />
 </a>
 
-<a href="https://estudeprumo.com"><img src="https://img.shields.io/badge/estudeprumo.com-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white" alt="estudeprumo.com" /></a>
-<a href="https://github.com/nullfeel/prumo"><img src="https://img.shields.io/badge/estudo_de_caso-6C5CE7?style=flat-square&logo=github&logoColor=white" alt="Estudo de caso" /></a>
-<a href="https://github.com/nullfeel/prumo-apps"><img src="https://img.shields.io/badge/apps_iOS_e_Android-6C5CE7?style=flat-square&logo=android&logoColor=white" alt="Apps iOS e Android" /></a>
-<a href="https://github.com/nullfeel/prumo-player"><img src="https://img.shields.io/badge/prumo_player-6C5CE7?style=flat-square&logo=rust&logoColor=white" alt="Prumo Player" /></a>
-
-<sub>Hortolândia, SP · Rumo à Engenharia de Software</sub>
+<a href="https://estudeprumo.com"><img src="https://img.shields.io/badge/estudeprumo.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="estudeprumo.com" /></a>
+<a href="https://github.com/nullfeel/prumo"><img src="https://img.shields.io/badge/estudo_de_caso-7D6BF0?style=for-the-badge&logo=github&logoColor=white" alt="Estudo de caso" /></a>
+<a href="https://github.com/nullfeel/prumo-apps"><img src="https://img.shields.io/badge/apps_iOS_e_Android-5B4BD6?style=for-the-badge&logo=android&logoColor=white" alt="Apps iOS e Android" /></a>
+<a href="https://github.com/nullfeel/prumo-player"><img src="https://img.shields.io/badge/prumo_player-3F338F?style=for-the-badge&logo=rust&logoColor=white" alt="Prumo Player" /></a>
 
 </div>
 
 <br/>
 
+## Sobre mim
+
+Sou cofundador e CTO da [Prumo](https://estudeprumo.com), uma plataforma de estudos com IA para
+ENEM e concursos, criada com o [Victor Candido](https://github.com/burnoutscript). A Prumo está
+no ar desde agosto de 2026, com alunos e pagamentos reais.
+
+Trabalho como desenvolvedor full-stack. No site da Prumo, cuido do produto de ponta a ponta:
+telas, funcionalidades, rotas de API, banco de dados, integrações e uso de IA. Nos apps de
+iPhone e Android, faço o visual; o código nativo e a segurança ficam com o Victor.
+
+Fora da Prumo, fiz o Prumo Player, um player de música para Windows em Rust e Tauri, do código
+ao instalador.
+
+Programo com agentes de IA no dia a dia (Claude Code, Cursor, OpenCode e Kimi) e reviso o que
+vai para produção. Moro em Hortolândia (SP) e quero cursar Engenharia de Software.
+
+<br/>
+
 ## Prumo
 
-Plataforma de estudos com IA para ENEM e concursos · em produção · usuários pagantes.
+A Prumo monta simulados e trilhas a partir do objetivo do aluno, corrige redação com IA e
+transforma o estudo em rotina com XP, ligas e torneios. O visual é de desenho animado, com um
+mascote que acompanha o aluno.
 
 <a href="https://github.com/nullfeel/prumo">
   <img src="https://raw.githubusercontent.com/nullfeel/prumo/main/docs/painel.png" width="100%" alt="Painel da Prumo na web" />
@@ -32,38 +50,42 @@ Plataforma de estudos com IA para ENEM e concursos · em produção · usuários
   </tr>
 </table>
 
-| | |
-|---|---|
-| Produto | SaaS de estudos com IA · em produção · usuários pagantes |
-| Papel | Full-stack: front-end, back-end, banco, integrações e IA · UI dos apps |
-| Plataformas | Web · iOS · Android |
-| Time | 2 fundadores · segurança e apps nativos com [Victor Candido](https://github.com/burnoutscript) |
+**O que eu faço**
 
-### Funcionalidades
+- Front-end em Next.js e React, com design system próprio e animações em GSAP e SVG
+- Cerca de 40 rotas de API e mais de 120 migrações no banco (Supabase, Postgres)
+- Integração com modelos de linguagem: correção de redação, leitura de redação por foto (OCR) e geração de questões
+- Pagamentos via Pix com webhooks, notificações push, integração com o Discord e monitoramento com Sentry
+- Visual das telas dos apps de iPhone e Android
+
+**Funcionalidades**
 
 | Área | |
 |---|---|
 | Estudo | Simulados · flashcards · caderno de erros · objetivos · Modo Foco |
 | Redação | Correção por IA · OCR de redação manuscrita |
-| Gamificação | XP e níveis · streak · conquistas · missões · prova chefe · avatar · mascote |
+| Gamificação | XP e níveis · sequência de dias · conquistas · missões · prova chefe · avatar · mascote |
 | Social | Duelo · ranking · ligas · torneios · times · convites · perfil público · Discord |
-| Negócio | Planos e Pix · push notifications · resumo semanal |
+| Negócio | Planos e Pix · notificações push · resumo semanal |
+
+Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (site) · [prumo-apps](https://github.com/nullfeel/prumo-apps) (visual dos apps)
 
 <br/>
 
 ## Prumo Player
 
-Player de música para Windows · gratuito · [download](https://prumo-player.vercel.app) · [estudo de caso](https://github.com/nullfeel/prumo-player)
+Player de música gratuito para Windows. Toca os arquivos do computador com letra sincronizada,
+biografia do artista, Last.fm e Discord, num visual que muda com a capa do álbum.
+[Download](https://prumo-player.vercel.app) · [estudo de caso](https://github.com/nullfeel/prumo-player)
 
 <a href="https://prumo-player.vercel.app">
   <img src="https://prumo-player.vercel.app/assets/og.png" width="100%" alt="Prumo Player" />
 </a>
 
-| | |
-|---|---|
-| Stack | Tauri 2 · Rust · Svelte · TypeScript |
-| Recursos | FLAC, MP3, Opus · gapless · equalizador · ReplayGain · letra sincronizada · biografia · Last.fm · Discord Rich Presence |
-| Distribuição | Instalador assinado · atualização automática · site próprio |
+- Motor de áudio próprio em Rust: FLAC, MP3, AAC, Opus e outros, sem pausa entre faixas, equalizador e volume equalizado (ReplayGain e EBU R128)
+- Biblioteca em SQLite, com tags, capas, playlists automáticas e contagem de plays
+- Letra estilo karaokê, biografia, rádio de parecidos, scrobble no Last.fm e status no Discord
+- Instalador assinado e atualização automática
 
 <br/>
 
@@ -74,17 +96,13 @@ Player de música para Windows · gratuito · [download](https://prumo-player.ve
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,html,css,vitest,git&theme=dark" alt="Back-end e ferramentas" />
 </p>
 
-### Foco
-
 | | |
 |---|---|
-| Front-end | Next.js App Router · React 19 · design system próprio · animação (GSAP, SVG) · acessibilidade |
-| Back-end | ~40 rotas de API · Supabase (Postgres, Auth, Storage) · 120+ migrations · jobs agendados |
-| IA | Integração com LLMs · correção de redação · OCR · geração de questões |
-| Desktop | Tauri 2 · Rust · áudio nativo · atualização automática assinada |
-| Integrações | Pagamentos via Pix e webhooks · web push · Discord · Sentry |
-| Produto | Gamificação · retenção · métricas de uso |
-| Ferramentas | Claude Code · Cursor · OpenCode · Kimi · Vitest · Git |
+| Front-end | Next.js · React · Svelte · TypeScript · GSAP |
+| Back-end | Node.js · Supabase · PostgreSQL · APIs REST |
+| Desktop | Rust · Tauri 2 · SQLite |
+| IA | Integração com LLMs · OCR |
+| Ferramentas | Claude Code · Cursor · OpenCode · Kimi · Vitest · Git · Sentry |
 
 <br/>
 
@@ -92,7 +110,13 @@ Player de música para Windows · gratuito · [download](https://prumo-player.ve
 
 | Projeto | |
 |---|---|
-| [mascote-vivo](https://github.com/nullfeel/mascote-vivo) | Animação de mascotes SVG: olhar, piscar, pulo e comemoração · TypeScript · GSAP · Vitest · [demo](https://nullfeel.github.io/mascote-vivo/) |
+| [mascote-vivo](https://github.com/nullfeel/mascote-vivo) | Dá vida a mascotes em SVG: olham para o mouse, piscam, pulam e comemoram · TypeScript · GSAP · Vitest · [demo](https://nullfeel.github.io/mascote-vivo/) |
+
+<br/>
+
+## Contato
+
+[estudeprumo.com](https://estudeprumo.com) · [LinkedIn](https://www.linkedin.com/in/marcos-alan-passos-pereira-7a7a9b3b4/)
 
 <br/>
 
