@@ -4,10 +4,8 @@
     .n { font-size: 40px; fill: #d6d8e0; letter-spacing: 4px; }
     .l { font-size: 13px; fill: #8F7CFF; letter-spacing: 3px; text-transform: uppercase; }
   </style>
-  <text x="100.0" y="58" class="n">000</text>
-  <text x="100.0" y="88" class="l">estrelas</text>
-  <text x="300.0" y="58" class="n">031</text>
-  <text x="300.0" y="88" class="l">contribuições no ano</text>
-  <text x="500.0" y="58" class="n">005</text>
-  <text x="500.0" y="88" class="l">repositórios</text>
+  <text x="150.0" y="58" class="n">40</text>
+  <text x="150.0" y="88" class="l">contribuições no ano</text>
+  <text x="450.0" y="58" class="n">5</text>
+  <text x="450.0" y="88" class="l">repositórios</text>
 </svg>
