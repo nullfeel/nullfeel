@@ -4,7 +4,7 @@
     .n { font-size: 40px; fill: #d6d8e0; letter-spacing: 4px; }
     .l { font-size: 13px; fill: #8F7CFF; letter-spacing: 3px; text-transform: uppercase; }
   </style>
-  <text x="150.0" y="58" class="n">40</text>
+  <text x="150.0" y="58" class="n">68</text>
   <text x="150.0" y="88" class="l">contribuições no ano</text>
   <text x="450.0" y="58" class="n">5</text>
   <text x="450.0" y="88" class="l">repositórios</text>
