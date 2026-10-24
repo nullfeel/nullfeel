@@ -130,9 +130,7 @@ biografia do artista, Last.fm e Discord, num visual que muda com a capa do álbu
 
 ## Open Source
 
-| Projeto | |
-|---|---|
-| [mascote-vivo](https://github.com/nullfeel/mascote-vivo) | Dá vida a mascotes em SVG: olham para o mouse, piscam, pulam e comemoram · TypeScript · GSAP · Vitest · [demo](https://nullfeel.github.io/mascote-vivo/) |
+- **[mascote-vivo](https://github.com/nullfeel/mascote-vivo)** — dá vida a mascotes em SVG: olham para o mouse, piscam, pulam e comemoram. TypeScript · GSAP · Vitest · [demo](https://nullfeel.github.io/mascote-vivo/)
 
 <br/>
 
