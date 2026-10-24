@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0912,55:6C5CE7,100:8F7CFF&height=200&section=header&text=Marcos%20Alan&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Cofundador%20e%20CTO%20da%20Prumo%20%C2%B7%20Full-stack%20%C2%B7%20Produto%20%C2%B7%20IA&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Marcos Alan" />
 
+<img src="https://media.tenor.com/6BlWvq0ZCtEAAAAC/lain-wired.gif" height="200" alt="Lain Iwakura no escuro" />&nbsp;<img src="https://media.tenor.com/7CJNwJI-FDEAAAAC/gin-ichimaru.gif" height="200" alt="Gin Ichimaru" />
+
+<sub><i>“No matter where you are, everyone is always connected.”</i> · Lain&nbsp;&nbsp;·&nbsp;&nbsp;<i>射殺せ、神鎗</i> · Gin</sub>
+
 <a href="https://estudeprumo.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=8F7CFF&center=true&vCenter=true&width=640&lines=Cofundador+e+CTO+%C2%B7+Prumo;Desenvolvedor+Full-stack;APIs+%C2%B7+Postgres+%C2%B7+LLMs;Rust+%C2%B7+Tauri+%C2%B7+Svelte" alt="Digitando" />
 </a>
@@ -88,6 +92,8 @@ Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps
 
 ## Open Source
 
+<img align="right" src="https://media.tenor.com/HqyvGWPLC5UAAAAm/lain-serial-experiments-lain.webp" height="150" alt="Lain dançando" />
+
 | Projeto | Descrição |
 |---|---|
 | [mascote-vivo](https://github.com/nullfeel/mascote-vivo) | Animação de mascotes SVG: olhar, piscar, pulo e comemoração · TypeScript · GSAP · Vitest · [demo](https://nullfeel.github.io/mascote-vivo/) |
@@ -95,6 +101,10 @@ Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps
 <div align="center">
 
 <br/>
+
+<img src="https://media.tenor.com/EBgYPfYoreQAAAAm/lain.webp" height="170" alt="Lain" />&nbsp;&nbsp;<img src="https://media.tenor.com/S1hAWNSfyN4AAAAC/gin-ichimaru.gif" height="170" alt="Gin Ichimaru sorrindo" />&nbsp;&nbsp;<img src="https://media.tenor.com/8NCHAzjL8vMAAAAm/lain.webp" height="170" alt="Lain" />
+
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/nullfeel/nullfeel/main/assets/contadores.svg" alt="Estrelas, contribuições e repositórios" />
 
