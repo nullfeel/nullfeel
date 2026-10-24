@@ -91,18 +91,28 @@ biografia do artista, Last.fm e Discord, num visual que muda com a capa do álbu
 
 ## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,ts,js,rust,tauri&theme=dark" alt="Linguagens e frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,html,css,vitest,git&theme=dark" alt="Back-end e ferramentas" />
+<p align="center"><sub><b>FRONT-END</b></sub><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,ts,js,html,css&theme=dark" alt="Next.js, React, Svelte, TypeScript, JavaScript, HTML, CSS" />
 </p>
 
-| | |
-|---|---|
-| Front-end | Next.js · React · Svelte · TypeScript · GSAP |
-| Back-end | Node.js · Supabase · PostgreSQL · APIs REST |
-| Desktop | Rust · Tauri 2 · SQLite |
-| IA | Integração com LLMs · OCR |
-| Ferramentas | Claude Code · Cursor · OpenCode · Kimi · Vitest · Git · Sentry |
+<p align="center"><sub><b>BACK-END</b></sub><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase&theme=dark" alt="Node.js, PostgreSQL, Supabase" />
+</p>
+
+<p align="center"><sub><b>DESKTOP</b></sub><br/><br/>
+  <img src="https://skillicons.dev/icons?i=rust,tauri,sqlite&theme=dark" alt="Rust, Tauri, SQLite" />
+</p>
+
+<p align="center"><sub><b>IA E FERRAMENTAS</b></sub><br/><br/>
+  <img src="https://img.shields.io/badge/Claude_Code-0B0912?style=for-the-badge&logo=claude&logoColor=8F7CFF" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-0B0912?style=for-the-badge&logo=cursor&logoColor=8F7CFF" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenCode-0B0912?style=for-the-badge&logo=opencode&logoColor=8F7CFF" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/Kimi-0B0912?style=for-the-badge&logo=kimi&logoColor=8F7CFF" alt="Kimi" /><br/>
+  <img src="https://img.shields.io/badge/GSAP-0B0912?style=for-the-badge&logo=greensock&logoColor=8F7CFF" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Vitest-0B0912?style=for-the-badge&logo=vitest&logoColor=8F7CFF" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Sentry-0B0912?style=for-the-badge&logo=sentry&logoColor=8F7CFF" alt="Sentry" />
+  <img src="https://img.shields.io/badge/Git-0B0912?style=for-the-badge&logo=git&logoColor=8F7CFF" alt="Git" />
+</p>
 
 <br/>
 
