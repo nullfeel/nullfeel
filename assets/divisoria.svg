@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40">
+  <defs>
+    <linearGradient id="sangue" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#ff4d5e"/><stop offset=".5" stop-color="#b3122e"/><stop offset="1" stop-color="#4a0712"/>
+    </linearGradient>
+    <linearGradient id="prata" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#f4f4f7"/><stop offset="1" stop-color="#7d808c"/>
+    </linearGradient>
+    <radialGradient id="vitral" cx="50%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#5c0a18"/><stop offset=".6" stop-color="#1a0308"/><stop offset="1" stop-color="#050305"/>
+    </radialGradient>
+    <filter id="brilho"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+  <g fill="#7a1022"><rect x="60" y="19" width="350" height="2"/><path d="M70 20 l 5 -9 l 3 9 Z"/><path d="M86 20 l 5 9 l 3 -9 Z"/><path d="M104 20 l 5 -9 l 3 9 Z"/><path d="M120 20 l 5 9 l 3 -9 Z"/><path d="M138 20 l 5 -9 l 3 9 Z"/><path d="M154 20 l 5 9 l 3 -9 Z"/><path d="M172 20 l 5 -9 l 3 9 Z"/><path d="M188 20 l 5 9 l 3 -9 Z"/><path d="M206 20 l 5 -9 l 3 9 Z"/><path d="M222 20 l 5 9 l 3 -9 Z"/><path d="M240 20 l 5 -9 l 3 9 Z"/><path d="M256 20 l 5 9 l 3 -9 Z"/><path d="M274 20 l 5 -9 l 3 9 Z"/><path d="M290 20 l 5 9 l 3 -9 Z"/><path d="M308 20 l 5 -9 l 3 9 Z"/><path d="M324 20 l 5 9 l 3 -9 Z"/><path d="M342 20 l 5 -9 l 3 9 Z"/><path d="M358 20 l 5 9 l 3 -9 Z"/><path d="M376 20 l 5 -9 l 3 9 Z"/><path d="M392 20 l 5 9 l 3 -9 Z"/></g><g fill="#7a1022"><rect x="490" y="19" width="350" height="2"/><path d="M500 20 l 5 -9 l 3 9 Z"/><path d="M516 20 l 5 9 l 3 -9 Z"/><path d="M534 20 l 5 -9 l 3 9 Z"/><path d="M550 20 l 5 9 l 3 -9 Z"/><path d="M568 20 l 5 -9 l 3 9 Z"/><path d="M584 20 l 5 9 l 3 -9 Z"/><path d="M602 20 l 5 -9 l 3 9 Z"/><path d="M618 20 l 5 9 l 3 -9 Z"/><path d="M636 20 l 5 -9 l 3 9 Z"/><path d="M652 20 l 5 9 l 3 -9 Z"/><path d="M670 20 l 5 -9 l 3 9 Z"/><path d="M686 20 l 5 9 l 3 -9 Z"/><path d="M704 20 l 5 -9 l 3 9 Z"/><path d="M720 20 l 5 9 l 3 -9 Z"/><path d="M738 20 l 5 -9 l 3 9 Z"/><path d="M754 20 l 5 9 l 3 -9 Z"/><path d="M772 20 l 5 -9 l 3 9 Z"/><path d="M788 20 l 5 9 l 3 -9 Z"/><path d="M806 20 l 5 -9 l 3 9 Z"/><path d="M822 20 l 5 9 l 3 -9 Z"/></g>
+  <g transform="translate(450 20) scale(0.7)" fill="url(#prata)"><rect x="-3" y="-22" width="6" height="44"/><rect x="-14" y="-12" width="28" height="6"/></g>
+</svg>
