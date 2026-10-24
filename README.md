@@ -136,15 +136,6 @@ biografia do artista, Last.fm e Discord, num visual que muda com a capa do álbu
 
 <div align="center">
 
-<img src="https://media.tenor.com/EBgYPfYoreQAAAAm/lain.webp" height="150" alt="Lain" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.tenor.com/S1hAWNSfyN4AAAAC/gin-ichimaru.gif" height="150" alt="Gin Ichimaru" />
-
-<br/>
-<sub><i>“No matter where you are, everyone is always connected.”</i> · Lain<br/><i>射殺せ、神鎗</i> · Gin</sub>
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/nullfeel/nullfeel/main/assets/contadores.svg" width="480" alt="Estrelas, contribuições e repositórios" />
 
 <br/>
