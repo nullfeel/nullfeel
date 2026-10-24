@@ -32,7 +32,7 @@ Full-stack · produto · IA aplicada · Hortolândia, SP · Rumo à Engenharia d
 |---|---|
 | Produto | SaaS de estudos com IA · em produção · usuários pagantes |
 | Plataformas | Web · iOS · Android |
-| Papel | Full-stack na web: front-end, APIs, banco e integrações · UI dos apps |
+| Papel | Full-stack: front-end, back-end, banco, integrações e IA · UI dos apps |
 | Time | 2 fundadores · segurança e apps nativos com [Victor Candido](https://github.com/burnoutscript) |
 
 <a href="https://github.com/nullfeel/prumo-apps">
