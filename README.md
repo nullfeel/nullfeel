@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Marcos Alan · cofundador e CTO da Prumo · full-stack" />
+<img src="assets/banner-gotico.svg" width="100%" alt="Marcos Alan · cofundador e CTO da Prumo · full-stack" />
 
 <img src="https://media.tenor.com/AtAW1M7pHggAAAAC/lain-experiments.gif" height="210" alt="Lain Iwakura no computador" />&nbsp;&nbsp;<img src="https://media.tenor.com/S1hAWNSfyN4AAAAC/gin-ichimaru.gif" height="210" alt="Gin Ichimaru sorrindo" />
 
@@ -114,6 +114,6 @@ Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps
 
 <br/><br/>
 
-<img src="assets/rodape.svg" width="100%" alt="Close the world, open the nExt" />
+<img src="assets/rodape-gotico.svg" width="100%" alt="Close the world, open the nExt" />
 
 </div>
