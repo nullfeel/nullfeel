@@ -1,19 +1,13 @@
 """Gera assets/contadores.svg com estrelas, contribuições e repositórios.
-
-Os números são desenhados com os GIFs do tema cat-girls-yay do Moe-Counter
-(github.com/journey-ad/Moe-Counter, licença MIT).
 """
 
-import base64
 import json
 import os
-import struct
 import urllib.request
 from pathlib import Path
 
 USER = os.environ.get("GH_USER", "nullfeel")
 ROOT = Path(__file__).resolve().parent.parent
-DIGITS = ROOT / "assets" / "moe"
 OUT = ROOT / "assets" / "contadores.svg"
 
 QUERY = """
@@ -46,63 +40,26 @@ def fetch_stats():
     ]
 
 
-def load_digits():
-    digits = {}
-    for d in "0123456789":
-        raw = (DIGITS / f"{d}.gif").read_bytes()
-        width, height = struct.unpack("<HH", raw[6:10])
-        digits[d] = (width, height, base64.b64encode(raw).decode())
-    return digits
-
-
-def render(stats, digits):
-    gap, label_h, pad = 40, 26, 10
-    blocks, x = [], pad
-    for label, value in stats:
-        text = str(value).zfill(3)
-        width = sum(digits[c][0] for c in text)
-        blocks.append((label, text, x, width))
-        x += width + gap
-    total_w = x - gap + pad
-    total_h = label_h + 100 + pad
-
-    used = sorted({c for _, text, _, _ in blocks for c in text})
-    defs = "\n".join(
-        f'    <image id="d{c}" width="{digits[c][0]}" height="{digits[c][1]}" '
-        f'href="data:image/gif;base64,{digits[c][2]}" />'
-        for c in used
-    )
-
-    parts = []
-    n = 0
-    for label, text, bx, width in blocks:
-        parts.append(
-            f'  <text x="{bx + width / 2}" y="18" text-anchor="middle">{label}</text>'
+def render(stats):
+    w, h = 600, 110
+    cols = []
+    for i, (label, value) in enumerate(stats):
+        x = w / len(stats) * (i + 0.5)
+        cols.append(
+            f'  <text x="{x}" y="58" class="n">{str(value).zfill(3)}</text>\n'
+            f'  <text x="{x}" y="88" class="l">{label}</text>'
         )
-        cx = bx
-        for c in text:
-            parts.append(
-                f'  <use href="#d{c}" x="{cx}" y="{label_h}" class="g" '
-                f'style="animation-delay:{n * 0.12:.2f}s" />'
-            )
-            cx += digits[c][0]
-            n += 1
-
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{total_w}" height="{total_h}" viewBox="0 0 {total_w} {total_h}">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">
   <style>
-    svg {{ image-rendering: pixelated; }}
-    text {{ font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #6C5CE7; }}
-    .g {{ animation: pula 1.6s ease-in-out infinite; transform-box: fill-box; }}
-    @keyframes pula {{ 0%, 100% {{ transform: translateY(0); }} 50% {{ transform: translateY(-5px); }} }}
+    text {{ font-family: Consolas, 'Courier New', monospace; text-anchor: middle; }}
+    .n {{ font-size: 40px; fill: #d6d8e0; letter-spacing: 4px; }}
+    .l {{ font-size: 13px; fill: #b3122e; letter-spacing: 3px; text-transform: uppercase; }}
   </style>
-  <defs>
-{defs}
-  </defs>
-{chr(10).join(parts)}
+{chr(10).join(cols)}
 </svg>
 """
 
 
 if __name__ == "__main__":
-    OUT.write_text(render(fetch_stats(), load_digits()), encoding="utf-8")
+    OUT.write_text(render(fetch_stats()), encoding="utf-8")
     print(f"gerado {OUT}")

@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:FF8FA3&height=190&section=header&text=Marcos%20Alan&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Cofundador%20e%20CTO%20da%20Prumo%20%C2%B7%20Full-stack%20%C2%B7%20Produto%20%C2%B7%20IA&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Marcos Alan" />
+<img src="assets/banner.svg" width="100%" alt="Marcos Alan · cofundador e CTO da Prumo · full-stack" />
 
 <a href="https://estudeprumo.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=6C5CE7&center=true&vCenter=true&width=640&lines=Cofundador+e+CTO+%C2%B7+Prumo;Desenvolvedor+Full-stack;APIs+%C2%B7+Postgres+%C2%B7+LLMs;Next.js+%C2%B7+React+%C2%B7+Supabase" alt="Digitando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=E5383B&center=true&vCenter=true&width=640&lines=Cofundador+e+CTO+%C2%B7+Prumo;Desenvolvedor+Full-stack;APIs+%C2%B7+Postgres+%C2%B7+LLMs;Rust+%C2%B7+Tauri+%C2%B7+Svelte;present+day.+present+time." alt="Digitando" />
 </a>
 
-<a href="https://estudeprumo.com"><img src="https://img.shields.io/badge/estudeprumo.com-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="estudeprumo.com" /></a>
-<a href="https://github.com/nullfeel/prumo"><img src="https://img.shields.io/badge/estudo_de_caso-8F7CFF?style=for-the-badge&logo=github&logoColor=white" alt="Estudo de caso" /></a>
+<a href="https://estudeprumo.com"><img src="https://img.shields.io/badge/estudeprumo.com-0d0d0f?style=for-the-badge&logo=googlechrome&logoColor=E5383B" alt="estudeprumo.com" /></a>
+<a href="https://github.com/nullfeel/prumo"><img src="https://img.shields.io/badge/estudo_de_caso-0d0d0f?style=for-the-badge&logo=github&logoColor=E5383B" alt="Estudo de caso" /></a>
+<a href="https://github.com/nullfeel/prumo-apps"><img src="https://img.shields.io/badge/apps_iOS_e_Android-0d0d0f?style=for-the-badge&logo=android&logoColor=E5383B" alt="Apps iOS e Android" /></a>
+<a href="https://github.com/nullfeel/prumo-player"><img src="https://img.shields.io/badge/prumo_player-0d0d0f?style=for-the-badge&logo=rust&logoColor=E5383B" alt="Prumo Player" /></a>
 
 </div>
 
 **Cofundador e CTO da [Prumo](https://estudeprumo.com)**, plataforma de estudos com IA para ENEM e concursos.<br/>
 Full-stack · produto · IA aplicada · Hortolândia, SP · Rumo à Engenharia de Software
 
-## Prumo
+## `layer:01` · Prumo
 
 <a href="https://github.com/nullfeel/prumo">
   <img src="https://raw.githubusercontent.com/nullfeel/prumo/main/docs/painel.png" width="100%" alt="Painel da Prumo na web" />
@@ -50,7 +52,7 @@ Full-stack · produto · IA aplicada · Hortolândia, SP · Rumo à Engenharia d
 
 Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps](https://github.com/nullfeel/prumo-apps) (UI mobile)
 
-## Prumo Player
+## `layer:02` · Prumo Player
 
 <a href="https://prumo-player.vercel.app">
   <img src="https://prumo-player.vercel.app/assets/og.png" width="100%" alt="Prumo Player" />
@@ -58,12 +60,12 @@ Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps
 
 | | |
 |---|---|
-| Produto | Player de música para Windows · gratuito · [download](https://prumo-player.vercel.app) |
+| Produto | Player de música para Windows · gratuito · [download](https://prumo-player.vercel.app) · [estudo de caso](https://github.com/nullfeel/prumo-player) |
 | Stack | Tauri 2 · Rust · Svelte · TypeScript |
 | Recursos | FLAC, MP3, Opus · gapless · equalizador · ReplayGain · letra sincronizada · biografia · Last.fm · Discord Rich Presence |
 | Distribuição | Instalador assinado · atualização automática · site próprio |
 
-## Foco
+## `layer:03` · Foco
 
 | | |
 |---|---|
@@ -75,16 +77,16 @@ Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps
 | Produto | Gamificação · retenção · métricas de uso |
 | Ferramentas | Claude Code · Cursor · OpenCode · Kimi · Vitest · Git |
 
-## Stack
+## `layer:04` · Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,ts,js,rust,tauri&theme=dark" alt="Linguagens e frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,html,css,vitest,git&theme=dark" alt="Back-end e ferramentas" /><br/>
-  <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/GSAP-0d0d0f?style=flat-square&logo=greensock&logoColor=E5383B" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Claude-0d0d0f?style=flat-square&logo=claude&logoColor=E5383B" alt="Claude" />
 </p>
 
-## Projetos open source
+## `layer:05` · Open source
 
 | Projeto | Descrição |
 |---|---|
@@ -98,9 +100,6 @@ Estudos de caso: [prumo](https://github.com/nullfeel/prumo) (web) · [prumo-apps
 
 <br/><br/>
 
-<sub>visitas ao perfil</sub><br/>
-<img src="https://count.getloli.com/@nullfeel?name=nullfeel&theme=cat-girls-yay&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Visitas" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FA3,100:6C5CE7&height=100&section=footer" width="100%" alt="" />
+<img src="assets/rodape.svg" width="100%" alt="Close the world, open the nExt" />
 
 </div>
